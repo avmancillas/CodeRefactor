@@ -85,25 +85,25 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*Refractor code*/
+/*Refactor code*/
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/*Refractor code*/
+/*Refactor code*/
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/*Refractor code*/
+/*Refactor code*/
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/*Refractor code*/
+/*Refactor code*/
 .service {
     margin-bottom: 20px;
     padding: 50px;
@@ -113,7 +113,7 @@ p {
     color: #ffffff;
 }
 
-/*Refractor code*/
+/*Refactor code*/
 .service img {
     max-height: 200px;
 }
